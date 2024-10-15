@@ -2,14 +2,6 @@
 A E-Commerce website developed using ReactJS for the frontend, NodeJs for the backend, MongoDB as database.
 
 
-## Table of contents
-* [Prerequisites](#prerequisites)
-* [Requirements](#requirements)
-* [Technologies](#technologies)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Contact](#contact)
-
 ## Requirements
 To run this project, install it locally using npm:
 
